@@ -1,5 +1,7 @@
 # turf-flatten
 
+[![build status](https://secure.travis-ci.org/Turfjs/turf-flatten.png)](http://travis-ci.org/Turfjs/turf-flatten)
+
 [Turf](http://turfjs.org/) flatten module
 
 
