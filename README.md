@@ -1,3 +1,4 @@
+# DEPRECATED - replaced with [`@turf/flatten`](https://github.com/Turfjs/turf/tree/master/packages/turf-flatten) & [`@turf/meta`](https://github.com/Turfjs/turf/tree/master/packages/turf-meta)
 # turf-flatten
 
 [![build status](https://secure.travis-ci.org/Turfjs/turf-flatten.png)](http://travis-ci.org/Turfjs/turf-flatten)
